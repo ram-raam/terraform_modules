@@ -1,0 +1,9 @@
+variable "nsg_end_name" {}
+variable "nsg_group_rg" {}
+variable "nsg_subnet_id" {}
+variable "Org" {}
+variable "AZRegion" {}
+variable "LZType" {}
+variable "Env" {}
+variable "Tags" {}
+variable "location" {}

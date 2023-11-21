@@ -1,0 +1,14 @@
+variable "Org" {}
+variable "AZRegion" {}
+variable "LZType" {}
+variable "Env" {}
+variable "sql_name" {}
+variable "location" {}
+variable "subnet_id_sql" {}
+variable "administrator_login" {}
+variable "administrator_login_password" {}
+variable "license_type" {}
+variable "sku_name" {}
+variable "vcores" {}
+variable "storage_size_in_gb_synapse" {}
+variable "resource_group_name_sql" {}

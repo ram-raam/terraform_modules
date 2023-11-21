@@ -1,0 +1,9 @@
+variable "target_resource_id" {}
+variable "log_analytics_workspace_id" {}
+variable "location" {}
+variable "Tags" {}
+variable "Org" {}
+variable "AZRegion" {}
+variable "LZType" {}
+variable "Env" {}
+variable "dia_name" {}

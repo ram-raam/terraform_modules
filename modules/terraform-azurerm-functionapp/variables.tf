@@ -1,0 +1,11 @@
+variable "Org" {}
+variable "AZRegion" {}
+variable "LZType" {}
+variable "Env" {}
+variable "location" {}
+variable "Tags" {}
+variable "asp_rg" {}
+variable "storage_account_access_key" {}
+variable "storage_account_name" {}
+variable "app_service_plan_id" {}
+variable "functionapp_name" {}

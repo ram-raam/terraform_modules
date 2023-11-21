@@ -1,0 +1,12 @@
+variable "Org" {}
+variable "kvapptype_caps" {} 
+variable "pcl_low" {}
+variable "sq_number" {}
+variable "env_low" {}
+variable "app_low" {}
+variable "location" {}
+variable "Tags" {}
+variable "keyvault_name" {}
+variable "keyvault_tenant_id" {}
+variable "subnet_ids" {}
+variable "keyvault_rg" {}

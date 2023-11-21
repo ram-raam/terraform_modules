@@ -1,0 +1,24 @@
+variable "location" {}
+variable "Tags" {}
+variable "Org_caps" {}
+variable "pln_caps" {}
+#variable "rtypes_caps" {} 
+variable "sub_name_caps" {}
+variable "pcl_caps" {}
+variable "app_caps" {}
+variable "AZRegion_caps" {}
+variable apptype_caps {}
+variable "asp_last_names" {}
+variable "asp_rg" {}
+variable "os_type" {}
+variable "sku_name" {}
+variable "service_plan_name" {}
+variable "service_app_name" {}
+variable "sq_number" {}
+variable service_plan_type {}
+variable "env_caps" {}
+variable "apprtypes_caps" {}
+variable service_app_name_ui {}
+variable service_app_name_api {}
+variable "subnet_id" {}
+
